@@ -28,5 +28,8 @@ go build -o client
 ./client
 ~~~
 
+## TODO
+
++ [ ] File transfer function
 
 
